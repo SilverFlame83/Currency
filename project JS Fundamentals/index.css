@@ -1,0 +1,175 @@
+
+.usd-title {
+  background-image: url("https://www.visittheusa.com/sites/default/files/styles/hero_l/public/2016-10/About_the_USA_NYC_Statue_Liberty_._CROP_Web72DPI.jpg?itok=M7fJ8X6f");
+  background-repeat: no-repeat;
+  background-size: 1600px 2000px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  color: white;
+}
+.eur-title{
+  background-image: url("https://image.shutterstock.com/image-illustration/europe-union-flag-silk-3d-260nw-1490143472.jpg");
+  background-repeat: no-repeat;
+  background-size: 1600px 500px; 
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  color: white;
+}
+
+.aud-title{
+  background-image: url("https://images.prismic.io/prospects-ac-uk/b6ea84179668f1383bce034fadcf6b05092f77ef_work-in-australia-1.jpg?auto=compress,format");
+  background-repeat: no-repeat;
+  background-size: 1600px 2000px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  color: white;
+}
+
+.bgn-title{
+  background-image: url("https://www.eu-startups.com/wp-content/uploads/2021/02/chronis-yan-R4zR_vSmB5Q-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: 1600px 2000px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  color: black;
+}
+
+.cad-title{
+  background-image: url("https://www.immigration.ca/images/pics/live-in-canada-min.jpg");
+  background-repeat: no-repeat;
+  background-size: 1600px 2000px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  color:white;
+}
+.dropbtn {
+  background-color: rgb(119, 88, 229);
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  margin-left: 700px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content option {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
+}
+
+.dropdown-content option:hover {
+  background-color: rgb(140, 112, 240);
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: rgb(69, 59, 108);
+}
+
+body {
+  background-image: url("https://nycofficesuites.com/wp-content/uploads/2010/11/Office-space-with-NYC-view.jpg");
+  background-repeat: no-repeat;
+  background-size: 1550px 750px;
+}
+
+
+.cad-welcome {
+  background-image: url("https://image.shutterstock.com/image-vector/national-flag-canada-paper-texture-260nw-1725850915.jpg");
+  background-repeat: no-repeat;
+  background-size: 1600px 2000px;
+}
+
+.chf-welcome {
+  background-image: url("https://culturalmixology.com/wp-content/uploads/2018/07/swiss-flag-1024x569.jpg");
+  background-repeat: no-repeat;
+  background-size: 1600px 2000px;
+}
+
+.nzd-welcome {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1280px-Flag_of_New_Zealand.svg.png");
+  background-repeat: no-repeat;
+  background-size: 1600px 2000px;
+}
+
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  color: rgb(75, 45, 150);
+}
+
+
+section {
+  position: relative;
+  text-align: center;
+  color:  black;
+  margin: auto;
+  background-color: rgb(186, 186, 221);
+  width: 25%;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+li {
+  list-style-type: square;
+  color: black;
+  text-align: left;
+  font-size: 19px;
+}
+
+.card {
+  min-height: 150px;
+  float: left;
+  margin-top: 30px;
+  margin-right: 25px;
+  margin-left: 25px;
+  padding: 35px;
+}
+
+.group-name {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.count-one {
+  color: crimson;
+  font-size: 20px;
+}
+.count-two {
+  color: rgb(92, 6, 103);
+  font-size: 20px;
+}
+.count-three {
+  color: crimson;
+  font-size: 20px;
+}
+
+p {
+  font-size: 15px;
+  font-weight: normal;
+}
+
